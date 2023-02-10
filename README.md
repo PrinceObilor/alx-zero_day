@@ -1,1 +1,1 @@
-its me and git
+It is me and git
